@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Boglica-Client-1412",
+	"clientFolder": "Tibia",
 	"newClientUrl" : "https://boglica.pl/download_files/Boglica-Client-1412.zip",
 	"clientExecutable": "client.exe"
 }
