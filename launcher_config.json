@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://boglica.pl/download_files/Boglica-Client-1412.zip",
+	"newClientUrl" : "https://github.com/Donjuanee/boglica/releases/download/untagged-44d3fd61a3ce6e2a66a6/Boglica-Client-1412.zip",
 	"clientExecutable": "client.exe"
 }
